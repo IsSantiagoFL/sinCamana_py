@@ -7,4 +7,4 @@ cd game
 python3 main.py
 ```
 
-autor: Santiago I. Flores
+Autor: Santiago I. Flores
